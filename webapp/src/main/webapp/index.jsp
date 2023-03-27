@@ -5,4 +5,3 @@
 <h2> This is End-End CI-CD Pipeline DevOps project with Ansible by Mr. Sai from Saidemy!! </h2>
 
 <h1>Now start your project..!</h1>
-<h2>Hi Welcome to Practice Tutorial</h2>
